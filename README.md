@@ -96,14 +96,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
- 
-</p>
-
----
-
 ### 🔥 Streak & Achievements
 
 <div align="center">
