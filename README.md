@@ -105,7 +105,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### ⚡ GitHub Contributions
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Truong-LS/Truong-LS/output/pacman-contribution-graph-dark.svg">
