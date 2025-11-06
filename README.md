@@ -90,8 +90,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -117,7 +117,7 @@
 
 ### 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Truong-LS&theme=tokyo-night)](https://github.com/Truong-LS/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Truong-LS&theme=dracula)](https://github.com/Truong-LS/github-readme-activity-graph)
 
 ---
 
