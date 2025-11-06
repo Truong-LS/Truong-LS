@@ -8,14 +8,14 @@
 
 ---
 
-### 💫 About Me
+<!-- ### 💫 About Me
 
 - 🎓 IT student, passionate about **Software Engineering**
 - 💻 I work mostly with **C#, .NET**
 - 🔭 Currently developing about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC**
-<!-- - 🌱 Learning about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC**  -->
+- 🌱 Learning about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC** 
 
----
+--- -->
 
 ### 💻 Tech Stack
 
@@ -130,8 +130,22 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:satruong0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Truong-LS"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:satruong0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Truong-LS">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/luusatruong">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/luusatruong">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://zalo.me/0965211548">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+  </a>
 </p>
+
 
 ---
