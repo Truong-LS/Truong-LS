@@ -3,7 +3,7 @@
   <img src="./assets/github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Lưu Sa Trường 👋</h1>
+<h1 align="center">Hi there, I'm Truong 👋</h1>
 <p align="center">🚀 IT Student | Software Engineering Student | BackEnd Developer </p>
 
 ---
