@@ -13,7 +13,7 @@
 - 🎓 IT student, passionate about **Software Engineering**
 - 💻 I work mostly with **C#, .NET**
 - 🔭 Currently developing about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC**
-- 🌱 Learning about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC** 
+- 🌱 Learning about **Cloud Deployment (Azure / AWS)** and **Microservices with gRPC**
 
 --- -->
 
@@ -75,7 +75,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-
 ---
 
 #### 🧰 Version Control & Tools
@@ -90,8 +89,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=dracula&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -128,6 +127,7 @@
 ---
 
 ### 📫 Connect With Me
+
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=satruong0@gmail.com&su=Contact%20from%20GitHub&body=Hi%20Truong," target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -146,6 +146,5 @@
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
   </a>
 </p>
-
 
 ---
