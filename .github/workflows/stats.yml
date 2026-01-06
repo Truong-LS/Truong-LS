@@ -1,0 +1,33 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # mỗi ngày 1 lần
+  workflow_dispatch: # cho phép chạy tay
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -L -o assets/stats.png \
+          "https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=dracula"
+
+          curl -L -o assets/top-langs.png \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=dracula"
+
+      - name: Commit images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets
+          git commit -m "Update GitHub stats images" || echo "No changes"
+          git push

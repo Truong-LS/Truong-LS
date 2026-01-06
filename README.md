@@ -89,8 +89,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Truong-LS&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong-LS&layout=compact&theme=dracula&hide_border=true" />
+  <img height="170em" src="./assets/stats.png" />
+  <img height="170em" src="./assets/top-langs.png" />
 </p>
 
 ---
